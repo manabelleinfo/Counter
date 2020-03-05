@@ -1,3 +1,8 @@
+---
+layout: default
+title: 準備編
+---
+
 # Create a iOS app for beginners. Sec.1
 #dev/swift #dev/iOS
 
